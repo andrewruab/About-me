@@ -7,4 +7,4 @@
 Сейчас жиу в Грузии, работаю на фрилансе. 
 Хоби: стихосложение, игра на гитаре, настольные игры, D&D и SWADE.
 
-<image src="/images/foto.jpg" alt="моё последнее фото">
+<image src="https://sun9-10.userapi.com/impg/utZpe4knGffCUc82p_vHcU8-wcOKo_k4wDn2TA/-9DVPV8qjIM.jpg?size=960x1280&quality=95&sign=9790b39ea44e93524ef763c7eae223ee&type=album" alt="моё последнее фото">
